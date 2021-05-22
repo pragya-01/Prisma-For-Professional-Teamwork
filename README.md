@@ -1,4 +1,4 @@
-<img src="./assets/logo.png" title="Prisma" alt="Prisma">
+<img src="D:\./assets/logo.png" title="Prisma" alt="Prisma">
 
 # Prisma
 
@@ -49,15 +49,15 @@ $ npm start
 
 ## Screenshots
 
-![Screenshot](./assets/5.png)
+![Screenshot](D:\./assets/5.png)
 
-![Screenshot](./assets/2.png)
+![Screenshot](D:\./assets/2.png)
 
-![ScreenShot](./assets/3.png)
+![ScreenShot](D:\./assets/3.png)
 
-![ScreenShot](./assets/1.png)
+![ScreenShot](D:\./assets/1.png)
 
-![ScreenShot](./assets/4.png)
+![ScreenShot](D:\./assets/4.png)
 ---
 
 # Technology
