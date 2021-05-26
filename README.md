@@ -1,5 +1,4 @@
 # Slack Clone
-<img src="logo.png" title="Prisma" alt="Prisma">
 Team Communications Software
 
 ## Table of Contents
