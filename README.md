@@ -1,9 +1,6 @@
-# Prisma-For-Professional-Teamwork
+# Slack Clone
 <img src="logo.png" title="Prisma" alt="Prisma">
-
-# Prisma
-
-> Team Communications Software
+Team Communications Software
 
 ## Table of Contents
 
